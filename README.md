@@ -39,6 +39,10 @@ Hey there! 👋 I'm **Sameer Vishwakarma** — a **code-slinging wizard** who tu
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer2k3&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=FFFFFF&dates=FFFFFF" />
 </div>
 <br/>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer2k3&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF&area=true" />
