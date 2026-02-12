@@ -39,10 +39,6 @@ Hey there! 👋 I'm **Sameer Vishwakarma** — a **code-slinging wizard** who tu
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer2k3&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=FFFFFF&dates=FFFFFF" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer2k3&theme=react-dark&bg_color=0D1117&hide_border=true&color=3B82F6&line=3B82F6&point=FFFFFF&area=true" />
@@ -58,10 +54,11 @@ Hey there! 👋 I'm **Sameer Vishwakarma** — a **code-slinging wizard** who tu
   <a href="https://github.com/Sameer2k3">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:sameervishwakarma97x@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sameervishwakarma97x@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
