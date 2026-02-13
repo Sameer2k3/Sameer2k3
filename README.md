@@ -48,7 +48,7 @@ Hey there! 👋 I'm **Sameer Vishwakarma** — a **code-slinging wizard** who tu
 
 ### 🤝 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/Sameer2k4">
+  <a href="https://www.linkedin.com/in/sameer2k3/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Sameer2k3">
